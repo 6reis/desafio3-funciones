@@ -1,0 +1,25 @@
+body {
+	background-color: #bcead5;
+	text-align:centro;
+}
+
+.container {
+	padding:120px;
+	display: flex;
+	height: 60VH;
+	width: 100VW;
+	justify-content: center;
+	align-items:centro;
+}
+
+.Concolor {
+	display: flex;
+	align-items:centro;
+	border:2px black sólido;
+	border-radius:5px;
+	width:200px; 
+	height:200px;
+	text-align:center;
+	font-size: 1.4rem;
+}
+

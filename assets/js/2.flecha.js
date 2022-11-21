@@ -1,6 +1,5 @@
-suma = function(a, b){
+suma = (a, b)=>{
     return a + b
     }
-    
 
-suma =(a,b)=> a+b;
+console.log(suma(a,b))
